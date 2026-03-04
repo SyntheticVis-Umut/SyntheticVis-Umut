@@ -1,5 +1,5 @@
 
-![Uploading Gemini_Generated_Image_fj9k2dfj9k2dfj9k.png…]()
+<img width="2752" height="1536" alt="Gemini_Generated_Image_fj9k2dfj9k2dfj9k" src="https://github.com/user-attachments/assets/6e4a1eca-5792-455d-9e91-56ad3ebf828e" />
 
 # Hi there! I'm Umut Özdemir 👋 
 ![Visitor Count](https://komarev.com/ghpvc/?username=umutozdemir&label=PROFILE%20VIEWS&color=0e75b6&style=flat)
