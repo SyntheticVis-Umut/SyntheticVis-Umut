@@ -32,7 +32,7 @@ I’m an **AI Product Innovator** and **Computer Engineer** dedicated to bridgin
 
 ### 📊 My GitHub Stats
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=umutozemir&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=umutozdemir&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutozdemir&layout=compact&theme=transparent" />
 </p>
 
