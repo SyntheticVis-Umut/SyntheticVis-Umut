@@ -30,14 +30,6 @@ I’m an **AI Product Innovator** and **Computer Engineer** dedicated to bridgin
 
 ---
 
-### 📊 My GitHub Stats
-<p align="left">
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=umutozdemir&show_icons=true&theme=transparent&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=umutozdemir&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutozdemir&layout=compact&theme=transparent" />
-</p>
-
----
-
 ### 🔖 My Focus Areas
 - 🏗 **Generative 3D:** Exploring latent spaces and procedural asset generation.
 - 🤖 **Agent Systems:** Developing LLM-powered agents for complex task automation.
